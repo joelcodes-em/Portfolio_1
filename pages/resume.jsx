@@ -61,7 +61,7 @@ export default function Resume() {
                 <CardDescription>17th June 2024 -8th July 2024</CardDescription>
               </CardHeader>
               <CardContent>
-                <p>Developed a software which will recognise emotion based on the Amazon Product Review.</p>
+                <p>Developed a software which will recognise emotion based on the Amazon Product Review</p>
               </CardContent>
             </Card>
           </section>
@@ -76,7 +76,7 @@ export default function Resume() {
                 <CardContent>
                   <ul className="list-disc pl-5 space-y-2">
                     <li>Created an impactful website as part of the GDSC Hackathon with functionalities like chatbot for customer service</li>
-                    <li>Integrated API's like GeoTag and Encryption services</li>
+                    <li>Integrated APIs like GeoTag and Encryption services</li>
                   </ul>
                 </CardContent>
               </Card>
@@ -86,9 +86,9 @@ export default function Resume() {
                 </CardHeader>
                 <CardContent>
                   <ul className="list-disc pl-5 space-y-2">
-                    <li>As a key member, I contributed to the development of a user-friendly website for the College canteen.</li>
-                    <li>We used PHP for our backend and connected it to the MySQL database using xampp.</li>
-                    <li>We added functions like add to cart, Retrieving data from database and integrated API of Razorpay for payment purposes.</li>
+                    <li>As a key member I contributed to the development of a user-friendly website for the College canteen</li>
+                    <li>We used PHP for our backend and connected it to the MySQL database using xampp</li>
+                    <li>We added functions like add to cart Retrieving data from database and integrated API of Razorpay for payment purposes</li>
                   </ul>
                 </CardContent>
               </Card>
